@@ -1,0 +1,75 @@
+ .navbar-brand{
+  font-size: 100px;
+  
+ }
+
+ 
+.navbar{
+  background-image:url(file:///C:/Users/yorun/OneDrive/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/illust/headerillust.jpg);
+  font-size: 100px;
+}
+
+.catch{
+  padding: 10px 20px;
+  font-size: 90px;
+  color:cornflowerblue;
+  white-space: nowrap;
+}
+
+
+.name{font-size: 80px;
+      white-space: nowrap;
+    }
+
+.bg-light{background-image:url(file:///C:/Users/yorun/OneDrive/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/illust/aboutillust2.jpg);
+          color: azure;
+}
+
+.leadcontent{
+  font-size: 60px; 
+  float:right;
+  white-space: nowrap;}
+
+.image{background-image:url(file:///C:/Users/yorun/OneDrive/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/illust/resize80.jpg);
+  background-repeat: no-repeat;
+  padding: 2000px 1000px;
+  background-size: cover;
+  background-position: top center;
+}
+.story{background-image:url(file:///C:/Users/yorun/OneDrive/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/illust/rouka.jpg);      
+}
+span{color: blueviolet;
+    font-size:50px;
+      font-weight: bold;}
+
+
+
+.lead{font-size: 40px;
+  white-space: nowrap;
+  font-family:'Lucida Sans Unicode';
+  font-weight: bold;
+}
+
+.Charactar{background-image:url(file:///C:/Users/yorun/OneDrive/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/illust/charactarimage.jpg);
+            color: cornflowerblue;}
+.intro{color:black;
+        font-weight: bold;
+      font-size: 30px;
+      white-space: nowrap;}
+.sanana{color: blueviolet;
+        font-weight: bold;
+      font-size: 50px;}
+.yuya{color: brown;
+  font-weight: bold;
+  font-size: 50px;}
+
+.Theater{background-image:url(file:///C:/Users/yorun/OneDrive/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/illust/illustth.jpg);
+        background-repeat:no-repeat;
+        background-size: cover;
+        color: aquamarine;
+      }
+
+
+section {
+  padding: 500px 0;
+}
